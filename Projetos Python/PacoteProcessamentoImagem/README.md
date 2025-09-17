@@ -54,5 +54,3 @@ image_palette_processor/
     └── setup.py
 ```
 
-## Licença
-MIT
